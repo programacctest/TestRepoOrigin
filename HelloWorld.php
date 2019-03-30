@@ -5,7 +5,8 @@
     <title>Hello</title>
   </head>
   <body>
-    <?php print ('Hello World!<br>'); 
+    <?php print ('Hello World!<br>');
     print ('Will this be authored properly?');?>
+    <p>Crazy new content!</p>
   </body>
 </html>
