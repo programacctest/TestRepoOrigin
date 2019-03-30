@@ -8,5 +8,6 @@
     <?php print ('Hello World!<br>');
     print ('Will this be authored properly?');?>
     <p>Crazy new content!</p>
+    <p>Getting CrAzY</p>
   </body>
 </html>
